@@ -52,3 +52,9 @@ li {
     padding: 0 0 0 4px;
 }
 
+.nav__link--primary {
+    border: 2px solid #6415ff;
+    border-radius: 24px;
+    margin: 8px 0px;
+    padding: 12px 32px;
+}
