@@ -17,6 +17,15 @@
     margin: 0 auto;
 }
 
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+}
+
 /* NAVIGATION BAR */
 
 .nav {
@@ -27,4 +36,8 @@
 .nav__container {
     display: flex;
     justify-content: space-between;
+}
+
+.nav__logo {
+    width: 80px;
 }
