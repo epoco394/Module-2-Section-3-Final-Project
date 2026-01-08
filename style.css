@@ -19,6 +19,12 @@
 
 /* NAVIGATION BAR */
 
-.nav__row {
-  
+.nav {
+  height: 80px;
+  display: flex;
+}
+
+.nav__container {
+    display: flex;
+    justify-content: space-between;
 }
