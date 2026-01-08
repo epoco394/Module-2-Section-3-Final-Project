@@ -8,13 +8,13 @@
 }
 
 .container {
-    padding: 80px 0;
-}
-
-.row {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.row {
+    padding: 32px 32px;
 }
 
 
@@ -28,15 +28,9 @@ li {
 
 /* NAVIGATION BAR */
 
-.nav {
-  height: 160px;
+nav {
+  height: 92px;
   display: flex;
-}
-
-.nav__container {
-    display: flex;
-    justify-content: space-between;
-    padding: 0 24px;
 }
 
 .nav__logo--img {
@@ -57,4 +51,8 @@ li {
     border-radius: 24px;
     margin: 8px 0px;
     padding: 12px 32px;
+}
+
+.nav__link:hover {
+    text-decoration: underline;
 }
