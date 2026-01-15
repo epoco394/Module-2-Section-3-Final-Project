@@ -11,6 +11,7 @@
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+    padding: 96px 0px;
 }
 
 .row {
@@ -74,9 +75,19 @@ nav {
 
 /* HEADER */
 
+.header__description--title {
+    font-size: 30px;
+    color: #1a202c;
+}
+
+.purple {
+    color: #6415ff;
+}
+
 .header__description--para {
    width: 100%;
    max-width: 48vw;
    font-size: 16px;
    margin: 20px 0px;
+   color: #243e63;
 }
