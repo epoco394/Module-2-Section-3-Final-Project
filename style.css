@@ -33,6 +33,7 @@ li {
 
 nav {
   height: 92px;
+  width: 1200px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,7 +51,7 @@ nav {
 }
 
 .nav__links {
-    margin-left: 120px;
+    margin-left: 400px;
 }
 
 .nav__link {
