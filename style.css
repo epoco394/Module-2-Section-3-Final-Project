@@ -78,6 +78,16 @@ nav {
 
 /* HEADER */
 
+.header__description--title,
+.header__description--para,
+.header__email,
+.header__customers--title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
 .header__description--title {
     font-size: 30px;
     color: #1a202c;
@@ -88,11 +98,11 @@ nav {
 }
 
 .header__description--para {
-   width: 100%;
-   max-width: 48vw;
-   font-size: 16px;
-   margin: 20px 0px;
-   color: #243e63;
+    width: 100%;
+    max-width: 48vw;
+    font-size: 16px;
+    margin: 20px 0px;
+    color: #243e63;
 }
 
 .header__email--input {
@@ -118,3 +128,4 @@ nav {
     font-size: 12px;
     color: #a0aec0;
 }
+
