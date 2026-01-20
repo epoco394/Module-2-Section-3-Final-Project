@@ -187,3 +187,13 @@ nav {
     line-height: 29.25px;
     max-width: 576px;
 }
+
+.features {
+    padding: 32px 24px 24px 32px;
+    height: 213px;
+    width: calc(100%/3);
+    flex-wrap: wrap;
+}
+
+.feature__row {
+}
