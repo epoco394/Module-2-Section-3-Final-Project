@@ -78,6 +78,10 @@ nav {
 
 /* HEADER */
 
+.header__row {
+    justify-content: space-between;
+}
+
 .header__description--title,
 .header__description--para,
 .header__email,
@@ -86,6 +90,8 @@ nav {
     align-items: center;
     justify-content: flex-start;
     flex-wrap: wrap;
+    width: 100%;
+    max-width: 448px;
 }
 
 .header__description--title {
@@ -98,8 +104,6 @@ nav {
 }
 
 .header__description--para {
-    width: 100%;
-    max-width: 48vw;
     font-size: 16px;
     margin: 20px 0px;
     color: #243e63;
@@ -129,3 +133,10 @@ nav {
     color: #a0aec0;
 }
 
+.header__img--wrapper {
+    margin-left: 64px;
+}
+
+.header__img {
+    width: 512px;
+}
