@@ -85,7 +85,8 @@ nav {
 .header__description--title,
 .header__description--para,
 .header__email,
-.header__customers--title {
+.header__customers--title,
+.header__customers {
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -96,7 +97,11 @@ nav {
 
 .header__description--title {
     font-size: 36px;
+    font-weight: 700;
+    line-height: 45px;
     color: #1a202c;
+    max-width: 400px;
+    display: block;
 }
 
 .purple {
@@ -133,6 +138,13 @@ nav {
     margin: 48px 0px 0px;
     font-size: 12px;
     color: #a0aec0;
+}
+
+.header__customers {
+    margin: 16px 0px 0px 0px;
+    padding: 0px 64px 0px 0px;
+    color: rgb(36, 62, 99);
+    opacity: 0.5;
 }
 
 .header__img--wrapper {
