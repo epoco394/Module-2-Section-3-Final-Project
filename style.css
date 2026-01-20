@@ -190,10 +190,11 @@ nav {
 
 .features {
     padding: 32px 24px 24px 32px;
-    height: 213px;
     width: calc(100%/3);
-    flex-wrap: wrap;
+    max-width: 1200px;
 }
 
-.feature__row {
+.feature {
+    height: 213px;
 }
+
