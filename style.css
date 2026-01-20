@@ -155,3 +155,35 @@ nav {
 .header__img {
     width: 512px;
 }
+
+/* FEATURES */
+
+.features__row {
+    display: flex;
+    flex-direction: column;
+}
+
+.section__tag,
+.section__title,
+.section__para {
+    text-align: center;
+}
+
+.section__tag {
+    color: #6415ff;
+    font-size: 16px;
+}
+.section__title {
+    color: #243e63;
+    font-size: 48px;
+    margin: 16px 0px;
+    line-height: 72px;
+}
+
+.section__para {
+    color: #7c8ba1;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.25px;
+    max-width: 576px;
+}
