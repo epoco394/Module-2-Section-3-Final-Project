@@ -95,7 +95,7 @@ nav {
 }
 
 .header__description--title {
-    font-size: 30px;
+    font-size: 36px;
     color: #1a202c;
 }
 
@@ -125,6 +125,8 @@ nav {
     font-size: 16px;
     margin: 8px;
     border-radius: 32px;
+    position: absolute;
+    margin-left: 224px;
 }
 
 .header__customers--title {
