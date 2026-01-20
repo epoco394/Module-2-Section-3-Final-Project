@@ -80,6 +80,7 @@ nav {
 
 .header__row {
     justify-content: space-between;
+    padding: 0px 32px 0px 32px;
 }
 
 .header__description--title,
