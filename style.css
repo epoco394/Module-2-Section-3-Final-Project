@@ -189,14 +189,30 @@ nav {
 }
 
 .features {
-    padding: 32px 24px 24px 32px;
     max-width: 1200px;
     display: flex;
     flex-wrap: wrap;
 }
 
 .feature {
+    padding: 32px 24px 24px 32px;
     width: calc(100%/3);
     height: 213px;
 }
 
+.feature__img--wrapper {
+    border: 1px solid rgb(229, 231, 235);
+    height: 66px;
+    width: 66px;
+    border-radius: 500px;
+    padding: 16px;
+}
+
+.feature__img {
+    height: 24px;
+    width: 24px;
+    margin: 4px 4px 4px 4px;
+}
+.feature__text {
+    
+}
