@@ -213,6 +213,11 @@ nav {
     width: 24px;
     margin: 4px 4px 4px 4px;
 }
+
 .feature__text {
     
+}
+
+.feature__title {
+    font-size: 20px;
 }
