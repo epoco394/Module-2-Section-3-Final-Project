@@ -200,6 +200,10 @@ nav {
     height: 213px;
 }
 
+.feature__row {
+    display: flex;
+}
+
 .feature__img--wrapper {
     border: 1px solid rgb(229, 231, 235);
     height: 66px;
@@ -215,9 +219,19 @@ nav {
 }
 
 .feature__text {
-    
+    margin: 8px 0px 0px 16px;
 }
 
 .feature__title {
-    font-size: 20px;
+    font-size: 24px;
+    color: #243e63;
+    font-weight: 700;
+}
+
+.feature__para {
+    font-size: 16px;
+    color: #7c8ba1;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 16px;
 }
