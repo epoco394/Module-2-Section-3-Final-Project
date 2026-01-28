@@ -29,7 +29,11 @@ li {
     list-style-type: none;
 }
 
-/* NAVIGATION BAR */
+/* 
+
+NAVIGATION BAR 
+
+*/
 
 nav {
   height: 92px;
@@ -76,7 +80,11 @@ nav {
     text-decoration: underline;
 }
 
-/* HEADER */
+/* 
+
+HEADER 
+
+*/
 
 .header__row {
     justify-content: space-between;
@@ -156,7 +164,11 @@ nav {
     width: 512px;
 }
 
-/* FEATURES */
+/* 
+
+FEATURES 
+
+*/
 
 .features__row {
     display: flex;
@@ -235,3 +247,50 @@ nav {
     line-height: 32px;
     margin-top: 16px;
 }
+
+/* 
+
+QUALITY 
+
+*/
+
+
+
+/* 
+
+STEPS 
+
+*/
+
+
+
+/* 
+
+VALUES 
+
+*/
+
+
+
+/* 
+
+PRICING 
+
+*/
+
+
+
+/* 
+
+TESTIMONIALS 
+
+*/
+
+
+
+/* 
+
+START 
+
+*/
+
