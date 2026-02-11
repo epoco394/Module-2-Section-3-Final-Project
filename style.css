@@ -260,7 +260,12 @@ QUALITY
 
 */
 
+.quality__img--wrapper {
+    width: 500px;
+    margin: 0px 0px 0px 64px;
+}
 
+.quality__img
 
 /* 
 
