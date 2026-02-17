@@ -261,12 +261,13 @@ QUALITY
 
 */
 
-.quality__description,
-.section__tag,
-.section__title,
-.section__para,
-.btn {
-    text-align: left;
+.quality__description {
+    display: block;
+    align-items: center;
+    justify-content: left;
+    height: 422px;
+    width: calc(1200px/2);
+    margin: 0px 64px 0px 0px;
     padding: 4px 0px 4px 0px;
 }
 
