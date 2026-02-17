@@ -337,11 +337,18 @@ STEPS
 
 */
 
-.steps__img--wrapper
+.steps__img--wrapper {
 
-.steps__img
+}
 
-.steps__description
+.steps__img 
+
+.steps__description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
 
 .steps__list
 
