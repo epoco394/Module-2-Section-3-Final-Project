@@ -261,6 +261,30 @@ QUALITY
 
 */
 
+.quality__description,
+.section__tag,
+.section__title,
+.section__para,
+.btn {
+    text-align: center;
+    padding: 4px 0px 4px 0px;
+}
+
+.btn {
+    background-color: #6415ff;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 500px;
+    font-weight: 700;
+    height: 41px;
+    width: 141.688px;
+    margin: 32px 0px 0px 0px;
+    padding: 12px 32px 12px 32px;
+    text-align: center;
+    transition: 300ms all ease;
+}
+
 .quality__img--wrapper {
     width: 500px;
     margin: 0px 0px 0px 64px;
