@@ -268,7 +268,7 @@ QUALITY
     height: 100%;
     max-height: 422px;
     width: 100%;
-    max-width: 1121px;
+    max-width: calc(1200px/2);
     align-items: center;
     justify-content: space-between;
 }
@@ -283,14 +283,23 @@ QUALITY
     margin: 0px 64px 0px 0px;
     padding: 4px 0px 4px 0px;
 }
-
-.section__tag {
-
+.section__tag,
+.section__title,
+.section__para,
+.btn {
+    display: block;
+    text-align: left;
 }
 
-.section__title
+.section__title {
+    line-height: 68px;
+    height: 180px;
+}
 
-.section__para
+.section__para {
+    line-height: 29.25px;
+    height: 117px;
+}
 
 .btn {
     display: inline-block;
