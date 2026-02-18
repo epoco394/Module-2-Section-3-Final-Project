@@ -367,6 +367,11 @@ STEPS
 }
 
 .step__number {
+    color: #cbd5e0;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 36px;
+    display: block;
 }
 
 .step__description {
