@@ -361,6 +361,9 @@ STEPS
 
 .step {
     display: flex;
+    align-items: flex-start;
+    height: 88px;
+    margin: 32px 0px 0px 0px;
 }
 
 .step__number {
