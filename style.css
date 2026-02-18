@@ -388,7 +388,15 @@ STEPS
     font-weight: 600;
 }
 
-.step__para
+.step__para {
+    color: #718096;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-block-start: 12px;
+    margin-top: 12px;
+    height: 56px;
+}
 
 /* 
 
