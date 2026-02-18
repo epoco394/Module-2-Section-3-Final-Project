@@ -420,14 +420,21 @@ VALUES
 
 .value__img--wrapper1 {
     background-color: #9ae6b4;
+    height: 36px;
+    width: 36px;
 }
 
 .value__img {
     color: #243e63;
+    height: 20px;
+    width: 20px;
 }
 
 .value__img--wrapper2 {
     background-color: #feb2b2;
+    height: 36px;
+    width: 36px;
+    text-align: center;
 }
 
 /* 
