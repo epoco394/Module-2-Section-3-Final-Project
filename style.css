@@ -352,11 +352,15 @@ STEPS
 
 .steps__list
 
-.step
+.step {
+    display: flex;
+}
 
-.step__number
+.step__number {
+}
 
-.step__description
+.step__description {
+}
 
 .step__title
 
