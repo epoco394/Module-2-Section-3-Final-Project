@@ -375,6 +375,12 @@ STEPS
 }
 
 .step__description {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    width: 100%;
+    max-width: 320px;
+    color: #243e63;
 }
 
 .step__title
