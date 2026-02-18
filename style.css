@@ -363,7 +363,7 @@ STEPS
     display: flex;
     align-items: flex-start;
     height: 88px;
-    margin: 32px 0px 0px 0px;
+    margin: 4px;
 }
 
 .step__number {
