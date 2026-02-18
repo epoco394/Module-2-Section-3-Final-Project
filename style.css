@@ -420,7 +420,13 @@ VALUES
     width: 560.5px;
 }
 
-.values__list
+.values__list {
+    display: flex;
+    flex-direction: row;
+    height: 188px;
+    width: 100%;
+    max-width: 496.5px;
+}
 
 .value
 
