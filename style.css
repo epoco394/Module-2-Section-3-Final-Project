@@ -354,7 +354,10 @@ STEPS
     justify-content: center;
 }
 
-.steps__list
+.steps__list {
+    height: 328px;
+    width: 496.5px;
+}
 
 .step {
     display: flex;
