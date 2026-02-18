@@ -438,7 +438,10 @@ VALUES
     margin: 32px 32px 0px 0px;
 }
 
-.value__title
+.value__title {
+    align-items: center;
+    height: 36px;
+}
 
 .value__name
 
