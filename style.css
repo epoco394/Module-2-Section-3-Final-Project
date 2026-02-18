@@ -338,10 +338,14 @@ STEPS
 */
 
 .steps__img--wrapper {
-
+    
 }
 
-.steps__img 
+.steps__img {
+    display: block;
+    width: 560.5px;
+    height: 319.844px;
+}
 
 .steps__description {
     display: flex;
