@@ -383,7 +383,10 @@ STEPS
     color: #243e63;
 }
 
-.step__title
+.step__title {
+    font-size: 20px;
+    font-weight: 600;
+}
 
 .step__para
 
