@@ -315,6 +315,7 @@ QUALITY
     margin: 32px 0px 0px 0px;
     padding: 12px 32px 12px 32px;
     transition: 300ms all ease;
+    text-wrap: nowrap;
 }
 
 .quality__img--wrapper {
@@ -336,10 +337,6 @@ QUALITY
 STEPS 
 
 */
-
-.steps__img--wrapper {
-    
-}
 
 .steps__img {
     display: block;
@@ -408,6 +405,19 @@ VALUES
 
 */
 
+.values__description
+
+.values__list
+
+.value
+
+.value__title
+
+.value__img--wrapper
+
+.value__name
+
+.value__para
 
 
 /* 
