@@ -413,28 +413,34 @@ VALUES
 
 .value__title
 
-
 .value__name
 
 .value__para
 
-.value__img--wrapper1 {
-    background-color: #9ae6b4;
-    height: 36px;
-    width: 36px;
-}
-
-.value__img {
+.fa-solid {
     color: #243e63;
     height: 20px;
     width: 20px;
+}
+
+.value__img--wrapper1 {
+    background-color: rgb(154, 230, 180);
+    height: 36px;
+    width: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
 }
 
 .value__img--wrapper2 {
     background-color: #feb2b2;
     height: 36px;
     width: 36px;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
 }
 
 /* 
