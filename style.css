@@ -413,12 +413,22 @@ VALUES
 
 .value__title
 
-.value__img--wrapper
 
 .value__name
 
 .value__para
 
+.value__img--wrapper1 {
+    background-color: #9ae6b4;
+}
+
+.value__img {
+    color: #243e63;
+}
+
+.value__img--wrapper2 {
+    background-color: #feb2b2;
+}
 
 /* 
 
