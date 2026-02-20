@@ -812,7 +812,13 @@ TESTIMONIALS
     color: rgb(124, 139, 161);
 }
 
-.testimonial__btns
+.testimonial__btns {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 80px;
+    width: 144.5px;
+}
 
 .testimonial__btn
 
