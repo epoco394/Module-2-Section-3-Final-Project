@@ -870,7 +870,12 @@ TESTIMONIALS
     padding-top: 2px;
 }
 
-.divider
+.divider {
+    background-color: rgb(237, 242, 247);
+    height: 20px;
+    width: 0.5px;
+    margin: 12px 0px 12px 0px;
+}
 
 /* 
 
