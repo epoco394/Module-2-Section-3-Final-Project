@@ -439,6 +439,7 @@ VALUES
 }
 
 .value__title {
+    display: flex;
     align-items: center;
     height: 36px;
 }
@@ -484,6 +485,12 @@ VALUES
     align-items: center;
     justify-content: center;
     border-radius: 50%;
+}
+
+.values__img {
+    height: 432.906px;
+    width: 10%;
+    max-width: 560.5px;
 }
 
 /* 
