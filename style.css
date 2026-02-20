@@ -9,7 +9,7 @@
 
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1121px;
     margin: 0 auto;
     padding: 96px 0px;
 }
@@ -674,7 +674,14 @@ TESTIMONIALS
 
 */
 
-
+.testimonial__row {
+    height: 580.25px;
+    width: 100%;
+    max-width: 1121px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
 /* 
 
