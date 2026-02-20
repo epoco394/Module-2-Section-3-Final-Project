@@ -683,6 +683,12 @@ TESTIMONIALS
     justify-content: space-between;
 }
 
+.testimonials__img {
+    height: 271.781px;
+    width: 100%;
+    max-width: 448.391px;
+}
+
 /* 
 
 START 
