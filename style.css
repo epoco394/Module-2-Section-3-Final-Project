@@ -846,9 +846,6 @@ TESTIMONIALS
     border: 1px solid rgb(237, 242, 247);
     border-radius: 50%;
     cursor: pointer;
-    font-size: 13.3px;
-    font-weight: 400;
-    text-align: center;
     height: 48px;
     width: 48px;
     margin: 0px 12px 0px 12px;
@@ -857,14 +854,21 @@ TESTIMONIALS
 }
 
 .testimonial__btn:hover {
-    background-color: rgb(237, 242, 247);
-    border: 1px solid rgb(237, 242, 247);
-    color: rgb(36, 62, 99);
+    background-color: rgb(200, 204, 207);
+    border: 1px solid rgb(200, 204, 207);
 }
 
-.btn--left
-
-.btn--right
+.fa-arrow-left,
+.fa-arrow-right {
+    display: block;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    color: #6415ff;
+    height: 16px;
+    width: 16px;
+    padding-top: 2px;
+}
 
 .divider
 
