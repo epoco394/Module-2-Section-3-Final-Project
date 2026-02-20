@@ -34,6 +34,7 @@ li {
     font-size: 16px;
     font-weight: 700;
 }
+
 .section__title {
     color: #243e63;
     font-size: 48px;
@@ -49,6 +50,17 @@ li {
     font-weight: 500;
     line-height: 29.25px;
     max-width: 576px;
+}
+
+.btn {
+    cursor: pointer;
+    transition: 300ms all ease;
+}
+
+.btn:hover {
+    background-color: #6027d1;
+    border: 2px solid #6027d1;
+    color: rgb(255, 255, 255);
 }
 
 /* 
