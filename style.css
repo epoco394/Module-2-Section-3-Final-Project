@@ -838,6 +838,12 @@ TESTIMONIALS
     transition: 300ms all ease;
 }
 
+.testimonial__btn:hover {
+    background-color: rgb(237, 242, 247);
+    border: 1px solid rgb(237, 242, 247);
+    color: rgb(36, 62, 99);
+}
+
 .btn--left
 
 .btn--right
