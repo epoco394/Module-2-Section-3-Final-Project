@@ -689,6 +689,15 @@ TESTIMONIALS
     max-width: 448.391px;
 }
 
+.testimonials__description {
+    display: flex;
+    flex-direction: column;
+    height: 580.25px;
+    width: 100%;
+    max-width: 672.594px;
+    padding-left: 64px;
+}
+
 /* 
 
 START 
