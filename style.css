@@ -752,6 +752,13 @@ TESTIMONIALS
     color: rgb(74, 85, 104);
 }
 
+.testimonial__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
 /* 
 
 START 
