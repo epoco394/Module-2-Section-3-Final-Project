@@ -476,6 +476,11 @@ VALUES
     width: 20px;
 }
 
+.value__btn {
+    display: flex;
+    flex-direction: column;
+}
+
 .value__img--wrapper1 {
     background-color: rgb(154, 230, 180);
     height: 36px;
