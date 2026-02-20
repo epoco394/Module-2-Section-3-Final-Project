@@ -668,6 +668,12 @@ PRICING
     width: 213.672px;
 }
 
+.plan__button:hover {
+    background-color: rgb(100, 21, 255);
+    border: 2px solid rgb(100, 21, 255);
+    color: rgb(255, 255, 255);
+}
+
 
 /* 
 
