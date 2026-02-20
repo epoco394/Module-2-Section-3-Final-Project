@@ -789,13 +789,23 @@ TESTIMONIALS
 .testimonial__details {
     box-sizing: border-box;
     height: 56.5px;
-    width: 144.78px;
+    width: 144.781px;
     margin-left: 24px;
 }
 
-.testimonial__name
+.testimonial__name,
+.testimonial__role {
+    display: block;
+}
 
-.testimonial__profile
+.testimonial__name {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(74, 85, 104);
+    line-height: 32.5px;
+}
+
+.testimonial__role
 
 .testimonial__btns
 
