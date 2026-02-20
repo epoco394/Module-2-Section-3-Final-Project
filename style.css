@@ -805,7 +805,12 @@ TESTIMONIALS
     line-height: 32.5px;
 }
 
-.testimonial__role
+.testimonial__role {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: rgb(124, 139, 161);
+}
 
 .testimonial__btns
 
