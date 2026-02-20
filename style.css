@@ -530,13 +530,42 @@ PRICING
 .plans {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .plan {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    max-width: 341.672px;
 }
+
+.plan__stripe {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 8px;
+    width: 100%;
+    max-width: 341.672px;
+}
+
+.plan__top
+
+.plan__name
+
+.plan__price
+
+.plan__duration
+
+.plan__middle
+
+.plan__target
+
+.plan__feature
+
+.plan__bottom
+
+.plan__button
 
 .plan--personal {
     background-color: rgb(255, 255, 255);
@@ -545,6 +574,7 @@ PRICING
     color: rgb(26, 32, 44);
     margin: 64px 32px 0px 0px;
     padding: 8px 32px 0px 32px;
+    height: 603.5px;
 }
 
 /* 
