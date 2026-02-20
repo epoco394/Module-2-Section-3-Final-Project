@@ -675,7 +675,7 @@ TESTIMONIALS
 
 */
 
-.testimonial__row {
+.testimonials__row {
     height: 580.25px;
     width: 100%;
     max-width: 1121px;
@@ -700,15 +700,22 @@ TESTIMONIALS
 }
 
 .testimonial__tag,
-.testimonial__title,
-.testimonial__para,
+.testimonials__title,
+.testimonials__para,
 .testimonial {
     width: 100%;
     max-width: 608.594px;
 }
+.testimonial__tag,
+.testimonials__title,
+.testimonials__para,
+.testimonial__rating,
+.testimonial__title,
+.testimonial__para {
+    display: block;
+}
 
-
-.testimonial__title {
+.testimonials__title {
     text-wrap: nowrap;
     line-height: 60px;
     margin: 16px 0px 24px 0px;
