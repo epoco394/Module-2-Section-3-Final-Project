@@ -487,10 +487,13 @@ VALUES
     border-radius: 50%;
 }
 
+.values__img--wrapper {
+    max-width: 560.5px;
+}
+
 .values__img {
     height: 432.906px;
-    width: 10%;
-    max-width: 560.5px;
+    width: 100%;
 }
 
 /* 
