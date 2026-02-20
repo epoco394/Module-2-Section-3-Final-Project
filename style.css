@@ -675,11 +675,15 @@ TESTIMONIALS
 
 */
 
+.testimonials__row,
+.testimonials__description {
+    display: flex;
+}
+
 .testimonials__row {
     height: 580.25px;
     width: 100%;
     max-width: 1121px;
-    display: flex;
     align-items: center;
     justify-content: space-between;
 }
@@ -691,7 +695,6 @@ TESTIMONIALS
 }
 
 .testimonials__description {
-    display: flex;
     flex-direction: column;
     align-items: flex-start;;
     height: 580.25px;
@@ -729,7 +732,6 @@ TESTIMONIALS
 }
 
 .testimonial__rating {
-    display: block;
     height: 22px;
     width: 606.594px;
     margin: 4px 2px 0px 0px;
@@ -761,14 +763,19 @@ TESTIMONIALS
     color: rgb(74, 85, 104);
 }
 
+.testimonial__bottom,
+.testimonial__profile {
+    display: flex;
+}
+
 .testimonial__bottom {
+    align-items: center;
+    justify-content: space-between;
     height: 80px;
 }
 
 .testimonial__profile {
-    display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 
 .testimonial__profile--img {
