@@ -549,7 +549,14 @@ PRICING
     max-width: 341.672px;
 }
 
-.plan__top
+.plan__top {
+    height: 208.5px;
+    width: 100%;
+    max-width: 277.672px;
+    line-height: 26px;
+    padding: 32px 0px 32px 0px;
+    text-align: center;
+}
 
 .plan__name
 
