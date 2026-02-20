@@ -699,10 +699,24 @@ TESTIMONIALS
     padding-left: 64px;
 }
 
+.testimonial__tag,
+.testimonial__title,
+.testimonial__para,
+.testimonial {
+    width: 100%;
+    max-width: 608.594px;
+}
+
+
 .testimonial__title {
     text-wrap: nowrap;
     line-height: 60px;
     margin: 16px 0px 24px 0px;
+}
+
+.testimonial {
+    margin-top: 40px;
+    height: 332.5px;
 }
 
 /* 
