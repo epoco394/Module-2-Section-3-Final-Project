@@ -553,6 +553,26 @@ PRICING
     height: 603.5px;
 }
 
+.plan--business {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    border: 1px solid rgb(229, 231, 235);
+    color: rgb(26, 32, 44);
+    margin: 64px 32px 0px 0px;
+    padding: 8px 32px 0px 32px;
+    height: 603.5px;
+}
+
+.plan--enterprise {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    border: 1px solid rgb(229, 231, 235);
+    color: rgb(26, 32, 44);
+    margin: 64px 32px 0px 0px;
+    padding: 8px 32px 0px 32px;
+    height: 603.5px;
+}
+
 .plan__stripe {
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
