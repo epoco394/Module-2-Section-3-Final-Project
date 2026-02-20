@@ -743,6 +743,15 @@ TESTIMONIALS
     margin-top: 16px;
 }
 
+.testimonial__para {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    height: 130px;
+    margin: 16px 0px 32px 0px;
+    color: rgb(74, 85, 104);
+}
+
 /* 
 
 START 
