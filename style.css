@@ -453,7 +453,9 @@ VALUES
     margin-left: 12px;
 }
 
-.value__para
+.value__para {
+    
+}
 
 .fa-solid {
     color: #243e63;
