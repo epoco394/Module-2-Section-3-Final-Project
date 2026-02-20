@@ -719,6 +719,22 @@ TESTIMONIALS
     height: 332.5px;
 }
 
+.testimonial__rating {
+    display: block;
+    height: 22px;
+    width: 606.594px;
+    margin: 4px 2px 0px 0px;
+}
+
+.fa-star {
+    display: inline-block;
+    color: rgb(246, 173, 85);
+    font-weight: 900;
+    height: 20px;
+    line-height: 16px;
+    width: 20px;
+}
+
 /* 
 
 START 
