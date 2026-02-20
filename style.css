@@ -711,7 +711,9 @@ TESTIMONIALS
 .testimonials__para,
 .testimonial__rating,
 .testimonial__title,
-.testimonial__para {
+.testimonial__para,
+.testimonial__profile--img,
+.testimonial__details {
     display: block;
 }
 
@@ -760,23 +762,28 @@ TESTIMONIALS
 }
 
 .testimonial__bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     height: 80px;
 }
 
 .testimonial__profile {
-
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .testimonial__profile--img {
     height: 80px;
     width: 80px;
     border-radius: 50%;
-    display: block;
     box-sizing: border-box;
     overflow: hidden;
+}
+
+.testimonial__details {
+    box-sizing: border-box;
+    height: 56.5px;
+    width: 144.78px;
+    margin-left: 24px;
 }
 
 /* 
