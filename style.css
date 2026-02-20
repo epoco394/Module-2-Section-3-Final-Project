@@ -499,7 +499,32 @@ PRICING
 
 */
 
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.section__title {
+    margin: 16px 0px 16px 0px;
+}
+
+.section__para {
+    width: 100%;
+    max-width: 576px;
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    align-items: center;
+}
+
+.plan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 /* 
 
