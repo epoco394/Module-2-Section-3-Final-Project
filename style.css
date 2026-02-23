@@ -977,7 +977,18 @@ FOOTER
 
 */
 
-#footer
+#footer {
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #6415ff;
+    height: 522px;
+    width: 100%;
+    max-width: 1185px;
+    overflow: hidden;
+    padding: 96px 32px 96px 32px;
+    margin: 0px 0px -32px 0px;
+}
 
 .footer__row
 
