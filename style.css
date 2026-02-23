@@ -1040,10 +1040,17 @@ FOOTER
     height: 21px;
     width: 29.8594px;
     margin-top: 24px;
-    
 }
 
-.footer__divider
+.footer__divider {
+    display: block;
+    box-sizing: border-box;
+    height: 2px;
+    width: 100%;
+    max-width: 1121px;
+    color: #742cff;
+    margin: 64px 0px 64px 0px;
+}
 
 .footer__bottom
 
