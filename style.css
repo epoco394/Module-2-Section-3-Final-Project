@@ -924,7 +924,16 @@ START
     margin: 0px 48.5px 0px 48.5px;
 }
 
-.start__title
+.start__title {
+    display: block;
+    box-sizing: border-box;
+    color: #f7fafc;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    height: 90px;
+    width: 480px;
+}
 
 .start__buttons
 
