@@ -904,7 +904,17 @@ START
     overflow: hidden;
 }
 
-.start__container
+.start__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: #6415ff;
+    border-radius: 8px;
+    height: 282px;
+    width: 1121px;
+    padding: 96px 0px 96px 0px;
+}
 
 .start__row
 
