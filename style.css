@@ -990,7 +990,13 @@ FOOTER
     margin: 0px 0px -32px 0px;
 }
 
-.footer__row
+.footer__row {
+    display: block;
+    box-sizing: border-box;
+    height: 378px;
+    width: 100%;
+    max-width: 1280px;
+    }
 
 .footer__columns
 
