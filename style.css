@@ -916,7 +916,13 @@ START
     padding: 96px 0px 96px 0px;
 }
 
-.start__row
+.start__row {
+    height: 90px;
+    width: 100%;
+    max-width: 1024px;
+    padding: 0px 32px 0px 32px;
+    margin: 0px 48.5px 0px 48.5px;
+}
 
 .start__title
 
