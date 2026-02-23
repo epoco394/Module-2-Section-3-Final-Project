@@ -1069,7 +1069,13 @@ FOOTER
     max-width: 158.266px;
 }
 
-.footer__logo--img
+.footer__logo--img {
+    display: block;
+    box-sizing: border-box;
+    height: 32px;
+    width: 32px;
+    overflow: hidden;
+}
 
 .footer__logo--text
 
