@@ -981,7 +981,6 @@ FOOTER
     display: block;
     box-sizing: border-box;
     position: relative;
-    background-color: #6415ff;
     height: 522px;
     width: 100%;
     max-width: 1185px;
@@ -996,6 +995,7 @@ FOOTER
     height: 378px;
     width: 100%;
     max-width: 1280px;
+    background-color: #6415ff;
     }
 
 .footer__columns {
@@ -1040,6 +1040,7 @@ FOOTER
     height: 21px;
     width: 29.8594px;
     margin-top: 24px;
+    text-decoration: underline;
 }
 
 .footer__divider {
