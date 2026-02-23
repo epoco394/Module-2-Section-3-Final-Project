@@ -1038,8 +1038,15 @@ FOOTER
     font-size: 14px;
     font-weight: 500;
     height: 21px;
-    width: 29.8594px;
+    width: 100%;
+    max-width: 29.8594px;
     margin-top: 24px;
+    text-wrap: no-wrap;
+    text-decoration: none;
+    transition: 500ms all ease;
+}
+
+.footer__column--link:hover {
     text-decoration: underline;
 }
 
