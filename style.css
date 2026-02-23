@@ -946,7 +946,7 @@ START
 .start__button {
     display: block;
     background-color: #f56565;
-    border:2px solid #f56565;
+    border:1px solid rgb(247, 250, 252);
     border-radius: 500px;
     color: rgb(247, 250, 252);
     box-sizing: border-box;
@@ -962,7 +962,11 @@ START
     margin: 1px 32px 1px 1px;
 }
 
-.start__button--contact
+.start__button--contact {
+    background-color: #6415ff;
+    border: 1px solid rgb(160, 174, 192);
+    width: 168.578px;
+}
 
 /* 
 
