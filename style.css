@@ -1052,7 +1052,14 @@ FOOTER
     margin: 64px 0px 64px 0px;
 }
 
-.footer__bottom
+.footer__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    height: 32px;
+    width: 1121px;
+}
 
 .footer__logo
 
