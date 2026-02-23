@@ -935,7 +935,13 @@ START
     width: 480px;
 }
 
-.start__buttons
+.start__buttons {
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    height: 68px;
+    width: 480px;
+}
 
 .start__button
 
