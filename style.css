@@ -1043,11 +1043,11 @@ FOOTER
     margin-top: 24px;
     text-wrap: no-wrap;
     text-decoration: none;
-    transition: 500ms all ease;
+    transition: 300ms all ease;
 }
 
 .footer__column--link:hover {
-    text-decoration: underline;
+    text-decoration: 2px underline;
 }
 
 .footer__divider {
