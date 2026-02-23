@@ -1099,6 +1099,13 @@ FOOTER
     width: 298.062px;
 }
 
-.footer__socials
+.footer__socials {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 32px;
+    width: 144px;
+    margin-left: -16px;
+}
 
 .footer__social--link
