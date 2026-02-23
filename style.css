@@ -1077,7 +1077,17 @@ FOOTER
     overflow: hidden;
 }
 
-.footer__logo--text
+.footer__logo--text {
+    display: block;
+    box-sizing: border-box;
+    color: #f7fafc;
+    height: 24px;
+    width: 118.266px;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-left: 8px;
+}
 
 .footer__copyright
 
