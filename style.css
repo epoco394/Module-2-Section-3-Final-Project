@@ -1008,7 +1008,16 @@ FOOTER
     margin-top: -48px;
 }
 
-.footer__column
+.footer__column {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    flex-direction: column;
+    height: 168px;
+    width: 100%;
+    max-width: 61.8594px;
+    margin-top: 48px;
+}
 
 .footer__column--title
 
