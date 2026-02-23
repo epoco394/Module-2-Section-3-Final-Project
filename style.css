@@ -897,7 +897,12 @@ START
     padding: 96px 0px 96px 0px;
 }
 
-.row__start
+.row__start {
+    height: 282px;
+    width: 1121px;
+    max-width: 1280px;
+    overflow: hidden;
+}
 
 .start__container
 
