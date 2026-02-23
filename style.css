@@ -1123,3 +1123,8 @@ FOOTER
     text-decoration: none;
     transition: 300ms all ease;
 }
+
+.footer__social--link:hover {
+    background-color: rgb(200, 204, 207);
+    border: 1px solid rgb(200, 204, 207);
+}
