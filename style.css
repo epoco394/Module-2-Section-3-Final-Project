@@ -1061,7 +1061,13 @@ FOOTER
     width: 1121px;
 }
 
-.footer__logo
+.footer__logo {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    width: 100%;
+    max-width: 158.266px;
+}
 
 .footer__logo--img
 
