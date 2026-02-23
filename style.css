@@ -1087,6 +1087,9 @@ FOOTER
 
 .footer__logo--text {
     display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     box-sizing: border-box;
     color: #f7fafc;
     height: 24px;
@@ -1095,6 +1098,7 @@ FOOTER
     font-weight: 900;
     letter-spacing: 1px;
     margin-left: 8px;
+    text-wrap: nowrap;
 }
 
 .footer__copyright {
