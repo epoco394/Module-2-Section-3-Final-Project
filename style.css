@@ -917,6 +917,9 @@ START
 }
 
 .start__row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 90px;
     width: 100%;
     max-width: 1024px;
@@ -965,11 +968,39 @@ START
 .start__button--contact {
     background-color: #6415ff;
     border: 1px solid rgb(160, 174, 192);
-    width: 168.578px;
+    text-align: center;
 }
 
 /* 
 
 FOOTER 
 
-/*
+*/
+
+#footer
+
+.footer__row
+
+.footer__columns
+
+.footer__column
+
+.footer__column--title
+
+.footer__column--link
+
+.footer__divider
+
+.footer__bottom
+
+.footer__logo
+
+.footer__logo--img
+
+.footer__logo--text
+
+.footer__copyright
+
+.footer__socials
+
+.footer__social--link
