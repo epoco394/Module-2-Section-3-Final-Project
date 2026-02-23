@@ -1028,10 +1028,20 @@ FOOTER
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    
 }
 
-.footer__column--link
+.footer__column--link {
+    display: block;
+    box-sizing: border-box;
+    cursor: pointer;
+    color: #f7fafc;
+    font-size: 14px;
+    font-weight: 500;
+    height: 21px;
+    width: 29.8594px;
+    margin-top: 24px;
+    
+}
 
 .footer__divider
 
