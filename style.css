@@ -891,7 +891,11 @@ START
     display: block;
 }
 
-.container__start
+.container__start {
+    width: 100%;
+    max-width: 1121px;
+    padding: 96px 0px 96px 0px;
+}
 
 .row__start
 
