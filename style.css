@@ -1019,7 +1019,17 @@ FOOTER
     margin-top: 48px;
 }
 
-.footer__column--title
+.footer__column--title {
+    display: block;
+    box-sizing: border-box;
+    height: 24px;
+    width: 43.5469px;
+    color: #f7fafc;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    
+}
 
 .footer__column--link
 
